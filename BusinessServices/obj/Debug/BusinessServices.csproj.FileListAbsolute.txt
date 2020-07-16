@@ -1,0 +1,127 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\BusinessServices.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\AutoMapper.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\BusinessEntities.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\DataModel.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\Resolver.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\EntityFramework.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\BusinessEntities.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\DataModel.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\DataModel.dll.config
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\Resolver.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\AutoMapper.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\AutoMapper.xml
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\EntityFramework.xml
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\obj\Debug\BusinessServices.csprojAssemblyReference.cache
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\obj\Debug\BusinessServices.csproj.CoreCompileInputs.cache
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\obj\Debug\BusinessServices.csproj.CopyComplete
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\obj\Debug\BusinessServices.dll
+E:\Code Example\WEB API Token based Authentication\SourceCode\BusinessServices\obj\Debug\BusinessServices.pdb
